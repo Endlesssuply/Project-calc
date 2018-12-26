@@ -1,2 +1,2 @@
 # Project-calc
-Calculator
+Многофункциональный калькулятор
